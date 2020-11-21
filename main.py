@@ -19,7 +19,7 @@ NOTE: This tool's only work for Indonesia number phone.
 """)
 		pilih=int(input('noobie/> '))
 		if pilih == 1:
-			import src.dbs
+			import src.DBS INDONESIA
 		
 		else: print("[!] lihat menu dong(o)");self.menu()
 
